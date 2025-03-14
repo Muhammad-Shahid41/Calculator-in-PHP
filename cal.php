@@ -1,7 +1,4 @@
 <?php
-
-
-// 
 function calculateExpression($expression)
 {
     $number = '';
